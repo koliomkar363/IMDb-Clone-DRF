@@ -1,7 +1,7 @@
 # IMDb-Clone-DRF
-Build REST APIs with Django REST Framework and Python
+[Build REST APIs with Django REST Framework and Python](https://www.udemy.com/course/django-rest-framework/)
 
-## Django Rest Framework topics covered:
+## Django Rest Framework Topics Covered:
 
 ### 1. API Basics
 
@@ -48,5 +48,3 @@ Build REST APIs with Django REST Framework and Python
 - Cursor
 
 ### 11. Automated API Testing
-
-**COURSE**: https://www.udemy.com/course/django-rest-framework/
